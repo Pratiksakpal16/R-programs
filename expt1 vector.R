@@ -1,0 +1,13 @@
+a1=2L
+typeof(a1)
+a="abc"
+class(a)
+class(a1)
+length(a)
+attributes(a)
+x=c(1,2,3)
+typeof(x)
+class(x)
+x=c(x,4)
+x=c(5,x)
+x=c(seq(from=1,to=10,by=0.1))
